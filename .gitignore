@@ -30,3 +30,11 @@
 
 # Debug files
 *.dSYM/
+
+Debug/
+
+comp/target/
+
+Release/
+
+comp/source/
